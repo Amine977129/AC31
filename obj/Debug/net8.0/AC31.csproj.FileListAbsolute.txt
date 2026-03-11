@@ -1,0 +1,14 @@
+D:\Users\Alum\Desktop\AC31\bin\Debug\net8.0\AC31.exe
+D:\Users\Alum\Desktop\AC31\bin\Debug\net8.0\AC31.deps.json
+D:\Users\Alum\Desktop\AC31\bin\Debug\net8.0\AC31.runtimeconfig.json
+D:\Users\Alum\Desktop\AC31\bin\Debug\net8.0\AC31.dll
+D:\Users\Alum\Desktop\AC31\bin\Debug\net8.0\AC31.pdb
+D:\Users\Alum\Desktop\AC31\obj\Debug\net8.0\AC31.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alum\Desktop\AC31\obj\Debug\net8.0\AC31.AssemblyInfoInputs.cache
+D:\Users\Alum\Desktop\AC31\obj\Debug\net8.0\AC31.AssemblyInfo.cs
+D:\Users\Alum\Desktop\AC31\obj\Debug\net8.0\AC31.csproj.CoreCompileInputs.cache
+D:\Users\Alum\Desktop\AC31\obj\Debug\net8.0\AC31.dll
+D:\Users\Alum\Desktop\AC31\obj\Debug\net8.0\refint\AC31.dll
+D:\Users\Alum\Desktop\AC31\obj\Debug\net8.0\AC31.pdb
+D:\Users\Alum\Desktop\AC31\obj\Debug\net8.0\AC31.genruntimeconfig.cache
+D:\Users\Alum\Desktop\AC31\obj\Debug\net8.0\ref\AC31.dll
